@@ -1,0 +1,9 @@
+{
+  "name": "u",
+  "version": "1.0.0",
+  "description": "Utility functions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sadir"
+}
